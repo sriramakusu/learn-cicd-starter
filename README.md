@@ -1,6 +1,10 @@
+![code coverage badge](https://github.com/sriramakusu/learn-cicd-starter/workflows/Tests/badge.svg)
+
 # learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
+
+Created a `addtests` repo to work on adding the tests
 
 ## Local Development
 
